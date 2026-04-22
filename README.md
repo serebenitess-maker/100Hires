@@ -22,5 +22,6 @@ Este repositorio documenta el proceso de configuración y el de desarrollo con C
 No encontré problemas significativos durante la instalación y configuración. Todas las herramientas se instalaron sin inconvenientes y el inicio de sesión en los complementos funcionó a la primera.
 Al inicio no encontraba la opción de clonar un repo en Cursor; lo resolví usando el atajo `Cmd + Shift + P` y buscando "Git: Clone". 
 Luego de hacer eso, crear este archivo me tardo un poco pero lo logré.
+Me costo mucho subirlo a GitHub pero con youtube y paciencia pude.
 
 # Serena Benites
