@@ -1,0 +1,26 @@
+Este repositorio documenta el proceso de configuración y el de desarrollo con Cursor IDE y sus complementos.
+
+## Herramientas instaladas
+
+- **Cursor IDE** - Descargado desde https://cursor.com/
+- **Complemento Claude Code** — Extensión dentro de Cursor.
+- **Complemento Codex** — Extensión dentro de Cursor.
+- **Git / GitHub** — 
+
+## Pasos completados
+
+1. Instalé Cursor IDE desde la página oficial.
+2. Agregué el complemento **Claude Code** desde la pestaña de Extensiones de Cursor e inicié sesión con mi cuenta.
+3. Agregué el complemento **Codex** desde la pestaña de Extensiones de Cursor y accedí a él.
+4. Creé una cuenta de GitHub y un repositorio público llamado 100Hires.
+5. Cloné y abrí el repositorio en Cursor.
+6. Creé este archivo `README.md` con la documentación del proceso.
+7. Hice commit y push de los cambios a GitHub.
+
+## Problemas encontrados y soluciones
+
+No encontré problemas significativos durante la instalación y configuración. Todas las herramientas se instalaron sin inconvenientes y el inicio de sesión en los complementos funcionó a la primera.
+Al inicio no encontraba la opción de clonar un repo en Cursor; lo resolví usando el atajo `Cmd + Shift + P` y buscando "Git: Clone". 
+Luego de hacer eso, crear este archivo me tardo un poco pero lo logré.
+
+# Serena Benites
