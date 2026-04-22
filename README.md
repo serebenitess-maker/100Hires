@@ -1,27 +1,27 @@
-Este repositorio documenta el proceso de configuración y el de desarrollo con Cursor IDE y sus complementos.
+This repository documents the configuration and development process with Cursor IDE and its extensions.
 
-## Herramientas instaladas
+## Installed Tools
 
-- **Cursor IDE** - Descargado desde https://cursor.com/
-- **Complemento Claude Code** — Extensión dentro de Cursor.
-- **Complemento Codex** — Extensión dentro de Cursor.
+- **Cursor IDE** - Downloaded from https://cursor.com/
+- **Claude Code extension** — Extension inside Cursor.
+- **Codex extension** — Extension inside Cursor.
 - **Git / GitHub** — 
 
-## Pasos completados
+## Completed Steps
 
-1. Instalé Cursor IDE desde la página oficial.
-2. Agregué el complemento **Claude Code** desde la pestaña de Extensiones de Cursor e inicié sesión con mi cuenta.
-3. Agregué el complemento **Codex** desde la pestaña de Extensiones de Cursor y accedí a él.
-4. Creé una cuenta de GitHub y un repositorio público llamado 100Hires.
-5. Cloné y abrí el repositorio en Cursor.
-6. Creé este archivo `README.md` con la documentación del proceso.
-7. Hice commit y push de los cambios a GitHub.
+1. I installed Cursor IDE from the official website.
+2. I added the **Claude Code** extension from the Cursor Extensions tab and signed in with my account.
+3. I added the **Codex** extension from the Cursor Extensions tab and accessed it.
+4. I created a GitHub account and a public repository called 100Hires.
+5. I cloned and opened the repository in Cursor.
+6. I created this `README.md` file with the documentation of the process.
+7. I committed and pushed the changes to GitHub.
 
-## Problemas encontrados y soluciones
+## Issues Encountered and Solutions
 
-No encontré problemas significativos durante la instalación y configuración. Todas las herramientas se instalaron sin inconvenientes y el inicio de sesión en los complementos funcionó a la primera.
-Al inicio no encontraba la opción de clonar un repo en Cursor; lo resolví usando el atajo `Cmd + Shift + P` y buscando "Git: Clone". 
-Luego de hacer eso, crear este archivo me tardo un poco pero lo logré.
-Me costo mucho subirlo a GitHub pero con youtube y paciencia pude.
+I didn't find any significant problems during the installation and configuration. All the tools installed without issues and signing in to the extensions worked on the first try.
+At the beginning I couldn't find the option to clone a repo in Cursor; I solved it by using the shortcut `Cmd + Shift + P` and searching for "Git: Clone".
+After doing that, creating this file took me a little while but I managed to do it.
+It was really hard to upload it to GitHub but with YouTube and patience I was able to.
 
 # Serena Benites
